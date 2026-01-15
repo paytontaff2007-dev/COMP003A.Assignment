@@ -95,16 +95,16 @@
 			Console.WriteLine("88. I like to take breaks to calm down");
 			Console.WriteLine("89. I like to play games and watch videos at the same time");
 			Console.WriteLine("90. I like to help people");
-			Console.WriteLine("91. ");
-			Console.WriteLine("92. ");
-			Console.WriteLine("93. ");
-			Console.WriteLine("94. ");
-			Console.WriteLine("95. ");
-			Console.WriteLine("96. ");
-			Console.WriteLine("97. ");
-			Console.WriteLine("98. ");
-			Console.WriteLine("99. ");
-			Console.WriteLine("100. ");
+			Console.WriteLine("91. I like fighting games with friends");
+			Console.WriteLine("92. I like to watch and play DND");
+			Console.WriteLine("93. Xbox controls are my favorite");
+			Console.WriteLine("94. I perfer cruchy taco shells then normal tortias");
+			Console.WriteLine("95. I like watching peopls reactions on horror games");
+			Console.WriteLine("96. I want to succeed in getting a good job");
+			Console.WriteLine("97. I want to get good at a ranked game like marvel rivels");
+			Console.WriteLine("98. I like to question things a lot");
+			Console.WriteLine("99. I asked a lot of questions because I am scared to get stuff wrong");
+			Console.WriteLine("100. I am to prove to myself that I can graduate from college");
 
 
 
