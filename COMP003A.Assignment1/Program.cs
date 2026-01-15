@@ -85,20 +85,26 @@
 			Console.WriteLine("78. My favorite piece of art is the gigantamax gengar");
 			Console.WriteLine("79. I have never stuck to one location for school");
 			Console.WriteLine("80. I like hanging out with my family");
-			Console.WriteLine("");
-			Console.WriteLine(""); 
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
-			Console.WriteLine("");
+			Console.WriteLine("81. My favorite dc character is batman");
+			Console.WriteLine("82. I am a big social and not social person"); 
+			Console.WriteLine("83. I hate having late work so I do eveything early");
+			Console.WriteLine("84. I have problems with stress but can deal with them");
+			Console.WriteLine("85. I own a darth vader figure");
+			Console.WriteLine("86. I own a changing image of venom and starter pokemon");
+			Console.WriteLine("87. I am a big fan of older games compared to most new ones");
+			Console.WriteLine("88. I like to take breaks to calm down");
+			Console.WriteLine("89. I like to play games and watch videos at the same time");
+			Console.WriteLine("90. I like to help people");
+			Console.WriteLine("91. ");
+			Console.WriteLine("92. ");
+			Console.WriteLine("93. ");
+			Console.WriteLine("94. ");
+			Console.WriteLine("95. ");
+			Console.WriteLine("96. ");
+			Console.WriteLine("97. ");
+			Console.WriteLine("98. ");
+			Console.WriteLine("99. ");
+			Console.WriteLine("100. ");
 
 
 
